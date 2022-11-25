@@ -1,0 +1,122 @@
+const AnswerData = [
+  {
+    id: 1,
+    questionId: 1,
+    inputAnswer: null,
+    selectedAnswer: ["python"],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: "test_man",
+  },
+  {
+    id: 2,
+    questionId: 1,
+    inputAnswer: null,
+    selectedAnswer: ["Golang"],
+    comment: "",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 3,
+    questionId: 1,
+    inputAnswer: null,
+    selectedAnswer: ["Golang"],
+    comment: null,
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 4,
+    questionId: 1,
+    inputAnswer: null,
+    selectedAnswer: ["python"],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 5,
+    questionId: 3,
+    inputAnswer: "2 hours",
+    selectedAnswer: [],
+    comment: null,
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 6,
+    questionId: 4,
+    inputAnswer: null,
+    selectedAnswer: ["English", "Japanese"],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 7,
+    questionId: 5,
+    inputAnswer: 10,
+    selectedAnswer: [],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 8,
+    questionId: 5,
+    inputAnswer: 9.5,
+    selectedAnswer: [],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 9,
+    questionId: 5,
+    inputAnswer: 6,
+    selectedAnswer: [],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 10,
+    questionId: 6,
+    inputAnswer: null,
+    selectedAnswer: ["Yes"],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+  {
+    id: 11,
+    questionId: 6,
+    inputAnswer: null,
+    selectedAnswer: ["No"],
+    comment:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.",
+    createdAt: "2022/11/18",
+    isAnonymous: true,
+    username: null,
+  },
+];
+
+export default AnswerData;
